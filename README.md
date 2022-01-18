@@ -1,3 +1,3 @@
 # aiffel_explorations
-Aiffel(A.I institution) exploration assignments are going to be uploaded.
+Aiffel(A.I institution) exploration assignments are going to be uploaded.\n
 All images used in the codes are from "Pixabay".
